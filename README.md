@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 You're Good to go!
 
-## 3. Usage
+## Usage
 
 1. Open a terminal window in the root directory of the project
 2. Execute 'main.py'
